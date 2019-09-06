@@ -6,8 +6,8 @@
 
 
 ## Super2048
-
-1. ### Spotlight:
+I recreated the game with some addition features that would make the game better and more challenging.
+### Spotlight:
     * ###### Background music
     * ###### Background Color change
     * ###### Undo and recover previouse steps
@@ -22,11 +22,13 @@
 
 
 ## Countdown Timer
-
-1. ### Spotlight:
+I created a countdown timer with some useful methods.
+### Spotlight:
     * ###### Suspend method to control all timers
     * ###### Hold up Keylistener for user convenience
+    * ###### Built-in compare method for timer comparison
     * ###### Built-in 3 separate timers to run individually
+    * ###### Built-in modify method for more way to modify the timers 
     * ###### Mode switch "Inc / Dec" timer could increase or decrease
     * ###### Hold up the JLabels with hyperlinks on "About Programmer"
     * ###### Display relative code of the program on "UML Diagram" by click on relative project structure
