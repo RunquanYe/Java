@@ -7,7 +7,7 @@
 
 ## Super2048
 I recreated the game with some addition features that would make the game better and more challenging.
-### Spotlight:
+* ### Spotlight:
     * ###### Background music
     * ###### Background Color change
     * ###### Undo and recover previouse steps
@@ -23,7 +23,7 @@ I recreated the game with some addition features that would make the game better
 
 ## Countdown Timer
 I created a countdown timer with some useful methods.
-### Spotlight:
+* ### Spotlight:
     * ###### Suspend method to control all timers
     * ###### Hold up Keylistener for user convenience
     * ###### Built-in compare method for timer comparison
