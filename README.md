@@ -5,9 +5,14 @@
 ---
 
 
+
+
+
 ## Super2048
 I recreated the game with some addition features that would make the game better and more challenging.
-![Super2048](/img/204801.png)
+
+![Super2048](https://github.com/RunquanYe/Java/blob/master/img/204801.PNG "Super2048")
+
 * ### Spotlight:
     * ###### Background music
     * ###### Background Color change
@@ -22,8 +27,14 @@ I recreated the game with some addition features that would make the game better
 
 
 
+
+
+
 ## Countdown Timer
 I created a countdown timer with some useful methods.
+
+![Countdown Timer](https://github.com/RunquanYe/Java/blob/master/img/c01.PNG "Countdown Timer")
+
 * ### Spotlight:
     * ###### Suspend method to control all timers
     * ###### Hold up Keylistener for user convenience
