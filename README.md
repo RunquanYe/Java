@@ -7,6 +7,7 @@
 
 ## Super2048
 I recreated the game with some addition features that would make the game better and more challenging.
+![Super2048](/img/204801.png)
 * ### Spotlight:
     * ###### Background music
     * ###### Background Color change
