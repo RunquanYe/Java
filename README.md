@@ -4,10 +4,6 @@
 2. [Countdown Timer](#countdown-timer)
 ---
 
-
-
-
-
 ## Super2048
 I recreated the game with some addition features that would make the game better and more challenging.
 
@@ -22,13 +18,7 @@ I recreated the game with some addition features that would make the game better
     - ###### Customize Game Board Size, winning requirement
     - ###### Hold up the JLabels with hyperlinks on "About Programmer"
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
-
 ---
-
-
-
-
-
 
 ## Countdown Timer
 I created a countdown timer with some useful methods.
