@@ -22,9 +22,9 @@ I recreated the game with some addition features that would make the game better
 
 ## Countdown Timer
 I created a countdown timer with some useful methods.
-
-<img align="center" width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/c01.PNG"/>
-
+<div style="text-align:center;">
+<img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/c01.PNG"/>
+</div>
 + ### Spotlight:
     - ###### Suspend method to control all timers
     - ###### Hold up Keylistener for user convenience
