@@ -1,0 +1,25 @@
+{
+  "programmer": {
+    "version": "2.0",
+    "date": "2020/2/29",
+    "name": "Runquan Ye",
+    "nickname": "Jerry",
+    "LinkedIn": "https://www.linkedin.com/in/runquanye/",
+    "skills": [
+      "Java, Python, JavaScript, HTML, CSS, JSON",
+      "Shopify Liquid, Android, Swift, C#/C/C++, SQL"
+    ],
+    "major": "Bachelor, Computer Science",
+    "school": "Grand Valley State University, MI",
+    "githubs": [
+      "https://github.com/RunquanYe",
+      "https://github.com/MouseKI",
+      "https://github.com/JerryYK"
+    ],
+    "emails": [
+      "Jerry347702526@gmail.com",
+      "yer@mail.gvsu.edu",
+      "347702526@qq.com"
+    ]
+  }
+}
