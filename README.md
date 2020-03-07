@@ -1,11 +1,12 @@
 # Java
 ## My Java Projects
 1. [Super2048](#super2048)
-2. [Countdown Timer](#countdown-timer)
+2. [ATM Machine](#atm-machine)
+3. [Countdown Timer](#countdown-timer) 
 ---
 
 ## Super2048
-I recreated the game with some addition features that would make the game better and more challenging.
+I made the game with some addition features that would make the game better and more challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
 
@@ -18,6 +19,25 @@ I recreated the game with some addition features that would make the game better
     - ###### Customize Game Board Size, winning requirement
     - ###### Hold up the JLabels with hyperlinks on "About Programmer"
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
+---
+
+## ATM Machine
+I create a nice ATM Machine with some useful functions.
+
+<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/>
+
++ ### Spotlight:
+    - ###### Add new ATM objects.
+    - ###### Nice and handy GUI Panel design.
+    - ###### Suspend method to control all ATMs.
+    - ###### Hold up Keylistener for user convenience.
+    - ###### Provide a comparing method the ATM objects.
+    - ###### Take-out and Input methods buttons and menus Items.	
+    - ###### Provide various take-out methods for user convenience.       
+    - ###### Hold up the JLabels with hyperlinks on "About Programmer".
+    - ###### Save and Load methods for the individual ATM object and the overall system.
+    - ###### Checking the network connection and receive the newest programmer introduction document.
+    - ###### Random Icon displaying on "Instruction", "UML Diagram", "About Programmer", and "About Project".
 ---
 
 ## Countdown Timer
