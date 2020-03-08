@@ -19,6 +19,7 @@ I made the game with some addition features that would make the game better and 
     - ###### Customize Game Board Size, winning requirement
     - ###### Hold up the JLabels with hyperlinks on "About Programmer"
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
+    - ###### Check the network connection and receive the newest programmer introduction online in a thread
 ---
 
 ## ATM Machine
@@ -36,7 +37,7 @@ I create a nice ATM Machine with some useful functions.
     - ###### Provide various take-out methods for user convenience.       
     - ###### Hold up the JLabels with hyperlinks on "About Programmer".
     - ###### Save and Load methods for the individual ATM object and the overall system.
-    - ###### Checking the network connection and receive the newest programmer introduction document.
+    - ###### Check the network connection and receive the newest programmer introduction online in a thread
     - ###### Random Icon displaying on "Instruction", "UML Diagram", "About Programmer", and "About Project".
 ---
 
@@ -54,4 +55,5 @@ I created a countdown timer with some useful methods.
     - ###### Mode switch "Inc / Dec" timer could increase or decrease
     - ###### Hold up the JLabels with hyperlinks on "About Programmer"
     - ###### Display relative code of the program on "UML Diagram" by click on relative project structure
+    - ###### Check the network connection and receive the newest programmer introduction online in a thread
     - ###### Random Icon displaying on "Instruction", "UML Diagram", "About Programmer", and "About Project"
