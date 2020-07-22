@@ -17,9 +17,6 @@ GitHubs:	       https://github.com/RunquanYe
 https://github.com/JerryYK
 
 https://github.com/MouseKI
-Hobby:	       Writing Minecraft Nukkit plugin for my personal minecraft server.
-
-(bgp.wintopidc.com Port: 31093)
 Emails:	       yer@mail.gvsu.edu
 
 Jerry347702526@gmail.com
