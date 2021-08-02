@@ -13,13 +13,14 @@ I made the game with some addition features that would make the game better and 
 + ### Spotlight:
     - ###### Background music
     - ###### Background Color change
+    - ###### Random cell background Color change
     - ###### Undo and recover previouse steps
     - ###### Stack game score and movement record
     - ###### Built-in timer to track on time for the time-limit
     - ###### Customize Game Board Size, winning requirement
     - ###### Hold up the JLabels with hyperlinks on "About Programmer"
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
-    - ###### Check the network connection and receive the newest programmer introduction online in a thread
+    - ###### Check the network connection and receive the newest programmer introduction online JSON in a thread
 ---
 
 ## ATM Machine
