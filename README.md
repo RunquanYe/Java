@@ -26,7 +26,7 @@ I made the game with some addition features that would make the game better and 
 ## ATM Machine
 I create a nice ATM Machine with some useful functions.
 
-<img align="center" width="500" height="300" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/>
+<img align="center" width="400" height="300" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/>
 
 + ### Spotlight:
     - ###### Add new ATM objects.
