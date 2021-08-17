@@ -23,7 +23,7 @@ I made the game with some addition features that would make the game better and 
     - ###### Check the network connection and receive the newest programmer introduction online JSON in a thread
 
 + ### Note: For Mac user, you may need to set the java version to 1.8 in terminal for the bgm work.
-    - ###### ''' export JAVA_HOME=`/usr/libexec/java_home -v 1.8` '''
+    - ###### ``` export JAVA_HOME=`/usr/libexec/java_home -v 1.8` ```
 ---
 
 ## ATM Machine
