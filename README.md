@@ -21,6 +21,9 @@ I made the game with some addition features that would make the game better and 
     - ###### Hold up the JLabels with hyperlinks on "About Programmer"
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
     - ###### Check the network connection and receive the newest programmer introduction online JSON in a thread
+
++ ### Note: For Mac user, you may need to set the java version to 1.8 in terminal for the bgm work.
+    - ###### export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
 ---
 
 ## ATM Machine
