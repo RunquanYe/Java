@@ -13,8 +13,8 @@ I programmed a product quotation application that simulates common functionaliti
 
 + ### Spotlight:
     - ###### Nice and handy GUI Panel design.
+    - ###### Provide a nice table view for displaying the product information. 
     - ###### Users could switch software language between Chinese and English.
-    - ###### Provide a nice table view for displaying the product information 
     - ###### Provide shortcut keys for all the application functions for user convenience.
     - ###### Provide a handly sorted table and inquire table method for users to looking for products' info.
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
