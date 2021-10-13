@@ -29,16 +29,16 @@ I made the game with some addition features that would make the game better and 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
 
 + ### Spotlight:
-    - ###### Background music
-    - ###### Background Color change
-    - ###### Random cell background Color change
-    - ###### Undo and recover previouse steps
-    - ###### Stack game score and movement record
-    - ###### Built-in timer to track on time for the time-limit
-    - ###### Customize Game Board Size, winning requirement
-    - ###### Hold up the JLabels with hyperlinks on "About Programmer"
-    - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
-    - ###### Check the network connection and receive the newest programmer introduction online JSON in a thread
+    - ###### Background music.
+    - ###### Background Color change.
+    - ###### Random cell background Color change.
+    - ###### Undo and recover previouse steps.
+    - ###### Stack game score and movement record.
+    - ###### Built-in timer to track on time for the time-limit.
+    - ###### Customize Game Board Size, winning requirement.
+    - ###### Hold up the JLabels with hyperlinks on "About Programmer".
+    - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project". 
+    - ###### Check the network connection and receive the newest programmer introduction online JSON in a thread.
 
 + ### Note: For Mac user, you may need to set the java version to 1.8 in terminal in order for the bgm to work.
     - ###### ``` export JAVA_HOME=`/usr/libexec/java_home -v 1.8` ```
@@ -59,7 +59,7 @@ I create a nice ATM Machine with some useful functions.
     - ###### Provide various take-out methods for user convenience.       
     - ###### Hold up the JLabels with hyperlinks on "About Programmer".
     - ###### Save and Load methods for the individual ATM object and the overall system.
-    - ###### Check the network connection and receive the newest programmer introduction online in a thread
+    - ###### Check the network connection and receive the newest programmer introduction online in a thread.
     - ###### Random Icon displaying on "Instruction", "UML Diagram", "About Programmer", and "About Project".
 ---
 
@@ -69,13 +69,13 @@ I created a countdown timer with some useful methods.
 <img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/c01.PNG"/>
 
 + ### Spotlight:
-    - ###### Suspend method to control all timers
-    - ###### Hold up Keylistener for user convenience
-    - ###### Built-in compare method for timer comparison
-    - ###### Built-in 3 separate timers to run individually
-    - ###### Built-in modify method for more way to modify the timers 
-    - ###### Mode switch "Inc / Dec" timer could increase or decrease
-    - ###### Hold up the JLabels with hyperlinks on "About Programmer"
-    - ###### Display relative code of the program on "UML Diagram" by click on relative project structure
-    - ###### Check the network connection and receive the newest programmer introduction online in a thread
-    - ###### Random Icon displaying on "Instruction", "UML Diagram", "About Programmer", and "About Project"
+    - ###### Suspend method to control all timers.
+    - ###### Hold up Keylistener for user convenience.
+    - ###### Built-in compare method for timer comparison.
+    - ###### Built-in 3 separate timers to run individually.
+    - ###### Built-in modify method for more way to modify the timers. 
+    - ###### Mode switch "Inc / Dec" timer could increase or decrease.
+    - ###### Hold up the JLabels with hyperlinks on "About Programmer".
+    - ###### Display relative code of the program on "UML Diagram" by click on relative project structure.
+    - ###### Check the network connection and receive the newest programmer introduction online in a thread.
+    - ###### Random Icon displaying on "Instruction", "UML Diagram", "About Programmer", and "About Project".
