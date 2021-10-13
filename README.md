@@ -1,11 +1,29 @@
 # Java
 ## My Java Projects
-1. [Super2048](#super2048)
-2. [ATM Machine](#atm-machine)
-3. [Countdown Timer](#countdown-timer) 
+1. [Product Quotation](#ProductQuotation)
+2. [Super 2048](#super2048)
+3. [ATM Machine](#atm-machine)
+4. [Countdown Timer](#countdown-timer) 
 ---
 
-## Super2048
+## Product Quotation
+I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
+
+<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation.PNG"/>
+
++ ### Spotlight:
+    - ###### Nice and handy GUI Panel design.
+    - ###### Users could switch software language between Chinese and English.
+    - ###### Provide a nice table view for displaying the product information 
+    - ###### Provide shortcut keys for all the application functions for user convenience.
+    - ###### Provide a handly sorted table and inquire table method for users to looking for products' info.
+    - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
+    - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
+    - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
+
+
+
+## Super 2048
 I made the game with some addition features that would make the game better and more challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
