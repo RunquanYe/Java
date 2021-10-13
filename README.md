@@ -9,7 +9,7 @@
 ## Product Quotation
 I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
 
-<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation.PNG"/>
+<img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation.PNG"/>
 
 + ### Spotlight:
     - ###### Nice and handy GUI Panel design.
