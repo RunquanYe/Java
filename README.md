@@ -17,7 +17,7 @@ I programmed a product quotation application that simulates common functionaliti
     - ###### Users could switch software language between Chinese and English.
     - ###### Provide shortcut keys for all the application functions for user convenience.
     - ###### Provide a handly sorted table and inquire table method for users to looking for products' info.
-    -     - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
+    - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
 
