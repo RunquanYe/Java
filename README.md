@@ -1,7 +1,7 @@
 # Java
 ## My Java Projects
-1. [Product Quotation](#ProductQuotation)
-2. [Super 2048](#super2048)
+1. [ProductQuotation](#ProductQuotation)
+2. [Super 2048](#Super2048)
 3. [ATM Machine](#atm-machine)
 4. [Countdown Timer](#countdown-timer) 
 ---
@@ -20,11 +20,11 @@ I programmed a product quotation application that simulates common functionaliti
     - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
-
+---
 
 
 ## Super 2048
-I made the game with some addition features that would make the game better and more challenging.
+I made the game with some addition features that would make the game better and challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
 
