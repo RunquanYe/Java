@@ -7,16 +7,16 @@
 ---
 
 ## Product Quotation
-I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
+I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
 <img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation.PNG"/>
 
 + ### Spotlight:
-    - ###### Nice and handy GUI Panel design.
+    - ###### Attractive and easy to use GUI Panel design.
     - ###### Provide a nice table view for displaying the product information. 
     - ###### Users could switch software language between Chinese and English.
     - ###### Provide shortcut keys for all the application functions for user convenience.
-    - ###### Provide a handly sorted table and inquire table method for users to looking for products' info.
+    - ###### Provide a handy sorted table and search table method for users to looking for products' info.
     - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
 
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
@@ -26,7 +26,7 @@ I programmed a product quotation application that simulates common functionaliti
 
 
 ## Super 2048
-I made the game with some addition features that would make the game better and challenging.
+I made the game with some addition features that would improve the game and make it more challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
 
@@ -36,7 +36,7 @@ I made the game with some addition features that would make the game better and 
     - ###### Random cell background Color change.
     - ###### Undo and recover previouse steps.
     - ###### Stack game score and movement record.
-    - ###### Built-in timer to track on time for the time-limit.
+    - ###### Built-in timer to track time for the time-limit.
     - ###### Customize Game Board Size, winning requirement.
     - ###### Hook up the JLabels with hyperlinks on "About Programmer".
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project". 
@@ -47,12 +47,12 @@ I made the game with some addition features that would make the game better and 
 ---
 
 ## ATM Machine
-I create a nice ATM Machine with some useful functions.
+I created an ATM Machine with useful functions.
 
 <img align="center" width="400" height="300" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/>
 
 + ### Spotlight:
-    - ###### Nice and handy GUI Panel design.
+    - ###### Attractive and easy to use GUI Panel design.
     - ###### Suspend method to control all ATMs.
     - ###### Provide function shortcut keys for user convenience.
     - ###### Provide a comparing method the ATM objects.	
