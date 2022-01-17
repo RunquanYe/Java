@@ -28,7 +28,7 @@ I programmed a product quotation application that simulates common functionaliti
 ## Super 2048
 I made the game with some addition features that would improve the game and make it more challenging.
 
-<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
+<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/>
 
 + ### Spotlight:
     - ###### Background music.
@@ -66,7 +66,7 @@ I created an ATM Machine with useful functions.
 ## Countdown Timer
 I created a countdown timer with some useful methods.
 
-<img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/c01.PNG"/>
+<img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/Timer_01.PNG"/>
 
 + ### Spotlight:
     - ###### Suspend method to control all timers.
