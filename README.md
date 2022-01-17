@@ -1,7 +1,7 @@
 # Java
 ## My Java Projects
-1. [ProductQuotation](#ProductQuotation)
-2. [Super 2048](#Super2048)
+1. [Product Quotation](#Product-Quotation)
+2. [Super 2048](#Super-2048)
 3. [ATM Machine](#atm-machine)
 4. [Countdown Timer](#countdown-timer) 
 ---
