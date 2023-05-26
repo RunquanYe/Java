@@ -9,7 +9,7 @@
 ## Product Quotation
 I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
-<img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation_01.PNG"/>
+<p align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation_01.PNG"/></p>
 
 + ### Spotlight:
     - ###### Attractive and easy to use GUI Panel design.
@@ -28,7 +28,7 @@ I programmed a product quotation application that simulates common functionaliti
 ## Super 2048
 I made the game with some addition features that would improve the game and make it more challenging.
 
-<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/>
+<p align="center"><img width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/></p>
 
 + ### Spotlight:
     - ###### Background music.
@@ -49,7 +49,7 @@ I made the game with some addition features that would improve the game and make
 ## ATM Machine
 I created an ATM Machine with useful functions.
 
-<img align="center" width="400" height="300" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/>
+<p align="center"><img width="400" height="300" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/></p>
 
 + ### Spotlight:
     - ###### Attractive and easy to use GUI Panel design.
@@ -66,7 +66,7 @@ I created an ATM Machine with useful functions.
 ## Countdown Timer
 I created a countdown timer with some useful methods.
 
-<img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/Timer_01.PNG"/>
+<p align="center"><img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/Timer_01.PNG"/></p>
 
 + ### Spotlight:
     - ###### Suspend method to control all timers.
