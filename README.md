@@ -1,6 +1,6 @@
 # Java
 
-# 👀 👉 Take a look at my Demo Projects Board [demo projects](https://github.com/RunquanYe/DemoProjects).
+### 👀 👉 Take a look at my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects) 😄.
 ---
 
 ## My Java Projects
