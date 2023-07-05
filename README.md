@@ -4,13 +4,14 @@
 2. [Super 2048](#Super-2048)
 3. [ATM Machine](#atm-machine)
 4. [Countdown Timer](#countdown-timer) 
----
+
 Here are my personal Java projects. I output all my Java projects as jar files, so it will be very easy for you to download and run them. Please try them out. 
 
 + If you want to learn more about me or see my project codes, you can download and run the jar and click the "About" menu.
   - the "About programmer" to get my profile to learn more about me. 
   - the "XML of Project" to click the relative XML box to get related Java code. 
 
+---
 ## Product Quotation
 I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
