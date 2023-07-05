@@ -1,6 +1,6 @@
 # Java
 
-### 😄 More of my projects, take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
+### Hello, 😄, to see more of my projects in other languages, take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
 ---
 
 ## My Java Projects
