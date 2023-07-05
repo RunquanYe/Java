@@ -1,7 +1,8 @@
 # Java
-Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
 ---
+Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
 
+---
 ## My Java Projects
 1. [Product Quotation](#Product-Quotation)
 2. [Super 2048](#Super-2048)
