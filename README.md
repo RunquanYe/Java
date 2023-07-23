@@ -4,8 +4,8 @@ Hello, 😄, to see more of my projects in other languages, please take a look a
 
 ---
 ## My Java Projects
-1. [Product Quotation](#Product-Quotation)
-2. [Super 2048](#Super-2048)
+1. [Product Quotation](#product-quotation)
+2. [Super 2048](#super-2048)
 3. [ATM Machine](#atm-machine)
 4. [Countdown Timer](#countdown-timer) 
 
