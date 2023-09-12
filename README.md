@@ -13,7 +13,7 @@ Here are my personal Java projects. I output all my Java projects as jar files, 
 
 + If you want to learn more about me or see my project codes, you can download and run the jar and click the "About" menu.
   - the "About programmer" to get my profile to learn more about me. 
-  - the "XML of Project" to click the relative XML box to get related Java code. 
+  - the "UML of Project" to click the relative UML box to get related Java code. 
 
 ---
 ## Product Quotation
